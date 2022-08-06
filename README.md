@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nakashou06
-- 👀 I’m interested in ... Database, Python, Cloud
+- 👀 I’m interested in ... Database, Python, Cloud(AWS, OCI)
 - 🌱 I’m currently learning ... Database
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... nakashou.06@gmail.com
